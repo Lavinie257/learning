@@ -55,14 +55,15 @@ switch(nombre){
 }
 
 int isPositif=nombre>0?1:0;
+int zxr=5;
 
 bool abc=false;
-if(abc==true){
+/*if(abc==true){
   print('abc est true');
 }else{
    print('abc est false');
 }
-
+/*
  }
 
 void calculatrice(){
